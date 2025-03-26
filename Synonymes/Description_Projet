@@ -1,0 +1,14 @@
+Français:
+Travail pratique pour le cours Algorithmes et Structures de données, fait à l'Université Laval;
+
+Ce programme sert à suggérer des synonymes. 
+Spécifiquement, le programme va lire une phrase en input, mot par mot, et, pour chaque mot, chercher un synonyme dans sa banque de synonymes. 
+S'il en trouve, le programme va alors demander à l'utilisateur s'il désire changer le mot pour l'un des synonymes.
+
+
+English:
+project made for the "Algorithmes et Structure de Données" class (algorithms and data structures), at Laval University;
+
+This program was made to suggest synonyms. 
+Specifically, it takes a sentence as input and, word by word, looks in its database for a synonym to the currently processed word, 
+asking the user if they want to replace it by one of the synonyms in its database.
